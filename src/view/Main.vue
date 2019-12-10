@@ -60,7 +60,6 @@
   .main-container {
     height: 100%;
     width: 100%;
-    margin-top: -60px;
     box-sizing: border-box;
   }
 
