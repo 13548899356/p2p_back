@@ -10,7 +10,8 @@ Vue.use(VueAxios, axios)
 // 引入Element
 import ElementUI from 'element-ui';
 import 'element-ui/lib/theme-chalk/index.css';
-
+import VueParticles from 'vue-particles'
+Vue.use(VueParticles)
 Vue.use(ElementUI) //新添加3
 Vue.config.productionTip = false
 
