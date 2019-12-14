@@ -12,7 +12,7 @@ export default {
 </script>
 
 <style>
-#app{
+#app {
   margin: -8px;
 }
 </style>
